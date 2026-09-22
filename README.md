@@ -1,4 +1,4 @@
-# Project Toko Online
+# Project Toko Online - Update Harga
 Aplikasi e-commerce sederhana untuk UMKM
 
 ## Fitur-Baru
