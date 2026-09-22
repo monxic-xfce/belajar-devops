@@ -1,2 +1,3 @@
-# Bagas Djuhari
-Ini ditambahain di branch Hari-Pertama
+# Bagas Djuhari - Versi Master
+Ini ditambahin di branch Hari-Pertama
+A day in my Life
