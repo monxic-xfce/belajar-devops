@@ -1,3 +1,2 @@
-# Bagas Djuhari - Versi Master
-Ini ditambahin di branch Hari-Pertama
-A day in my Life
+Ini aku coba membuat branch baru bernama hari kedua \
+aku coba menambahkannya dan belajar
