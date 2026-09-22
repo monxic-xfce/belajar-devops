@@ -1,1 +1,1 @@
-Ini aku edit dari nano sepertinya lebih mudah menggunakan nano
+Nama Lengkap temanku Bagus Akli Lahir di Tarakan
