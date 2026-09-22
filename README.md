@@ -1,1 +1,2 @@
-Nama Lengkap temanku Bagus Akli Lahir di Tarakan
+# Project Toko Online
+Aplikasi e-commerce sederhana untuk UMKM
